@@ -175,3 +175,5 @@ care about.
 
 Descriptions, genres and years come from TMDB. This product uses the TMDB API
 but is not endorsed or certified by TMDB.
+
+This project was built with AI assistance.
